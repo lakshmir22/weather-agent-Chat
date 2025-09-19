@@ -4,7 +4,7 @@
 
 *A modern, responsive chat interface for real-time weather conversations*
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge)](LINK)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge)](https://lakshmi-weather-agent-chat.vercel.app/)
 [![Documentation](https://img.shields.io/badge/📚_Documentation-green?style=for-the-badge)](https://drive.google.com/file/d/1Fo9z66w6hC3abDt7yImM5C82PzuU017U/view?usp=sharing)
 
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=flat&logo=react&logoColor=white)
@@ -190,5 +190,6 @@ src/
 
 [![GitHub stars](https://img.shields.io/github/stars/lakshmir22/weather-agent-Chat?style=social)](https://github.com/lakshmir22/weather-agent-Chat/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/lakshmir22/weather-agent-Chat?style=social)](https://github.com/lakshmir22/weather-agent-Chat/network/members)
+
 
 </div>
